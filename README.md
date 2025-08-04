@@ -124,4 +124,7 @@ This project provides a solid foundation for a movie ticket booking system. Pote
 *   **User Accounts:** Implement a more comprehensive user authentication and profile management system.
 *   **Graphical User Interface (GUI):** Develop a GUI application using libraries like Qt or GTK+ for a richer user experience.
 
+## Checkout Here
+https://www.canva.com/design/DAGvBkt2MRo/FdKVC9ceA7Qsp7hA8_NlbA/watch
+
 
